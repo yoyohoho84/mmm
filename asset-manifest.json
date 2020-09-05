@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.a3629be4.chunk.css",
+    "main.css": "./static/css/main.2f11984a.chunk.css",
     "main.js": "./static/js/main.15209148.chunk.js",
     "main.js.map": "./static/js/main.15209148.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.430f9cef.js",
@@ -9,10 +9,10 @@
     "static/js/2.f1920c09.chunk.js": "./static/js/2.f1920c09.chunk.js",
     "static/js/2.f1920c09.chunk.js.map": "./static/js/2.f1920c09.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e9a4303d5c75e552ec92826e3a8ece68.js": "./precache-manifest.e9a4303d5c75e552ec92826e3a8ece68.js",
+    "precache-manifest.5eefcf70dbbd72e4e50323a9b930fe3e.js": "./precache-manifest.5eefcf70dbbd72e4e50323a9b930fe3e.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.1e562f28.chunk.css.map": "./static/css/2.1e562f28.chunk.css.map",
-    "static/css/main.a3629be4.chunk.css.map": "./static/css/main.a3629be4.chunk.css.map",
+    "static/css/main.2f11984a.chunk.css.map": "./static/css/main.2f11984a.chunk.css.map",
     "static/js/2.f1920c09.chunk.js.LICENSE.txt": "./static/js/2.f1920c09.chunk.js.LICENSE.txt",
     "static/media/icons.sass": "./static/media/PornCoin45pxNew.336d6e36.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.430f9cef.js",
     "static/css/2.1e562f28.chunk.css",
     "static/js/2.f1920c09.chunk.js",
-    "static/css/main.a3629be4.chunk.css",
+    "static/css/main.2f11984a.chunk.css",
     "static/js/main.15209148.chunk.js"
   ]
 }
